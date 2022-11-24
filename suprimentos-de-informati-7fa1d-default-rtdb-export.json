@@ -1,0 +1,150 @@
+{
+  "loja": {
+    "clientes": [
+      null,
+      {
+        "email": "marcosbarros@gmail.com",
+        "endereco": {
+          "cep": "63860000",
+          "log": "alto da alegria",
+          "n": "71"
+        },
+        "nome": "Marcos Barros",
+        "telefone": "88991234567"
+      },
+      {
+        "email": "jaopredo@gmail.com",
+        "endereco": {
+          "cep": "63870000",
+          "log": "alto do motor",
+          "n": "777"
+        },
+        "nome": "João Pedro",
+        "telefone": "88945651234"
+      },
+      {
+        "email": "faelmatadordeporco@gmail.com",
+        "endereco": {
+          "cep": "63860000",
+          "log": "santa terezinha",
+          "n": "69"
+        },
+        "nome": "Rafael Paiva",
+        "telefone": "88900289229"
+      },
+      {
+        "email": "carlosempinto@gmail.com",
+        "endereco": {
+          "cep": "63860000",
+          "log": "santa terezinha",
+          "n": "96"
+        },
+        "nome": "Carlos Emanuel",
+        "telefone": "88969965885"
+      },
+      {
+        "email": "vandodeseios@gmail.com",
+        "endereco": {
+          "cep": "63870000",
+          "log": "caixa prega",
+          "n": "666"
+        },
+        "nome": "Vanderson Vieira",
+        "telefone": "88999885533"
+      },
+      {
+        "email": "gabssuriequeton@gmail.com",
+        "endereco": {
+          "cep": "63870000",
+          "log": "cafundós do judas",
+          "n": "24"
+        },
+        "nome": "Gabriel Soares",
+        "telefone": "88999885534"
+      },
+      {
+        "email": "ycraonewlife@gmail.com",
+        "endereco": {
+          "cep": "63860000",
+          "log": "nova vida 1",
+          "n": "69"
+        },
+        "nome": "Ycaro Gomes",
+        "telefone": "88999885535"
+      },
+      {
+        "email": "bidenegodoido@gmail.com",
+        "endereco": {
+          "cep": "63870000",
+          "log": "bom socorro",
+          "n": "112"
+        },
+        "nome": "Gabriel Bidé",
+        "telefone": "88999885536"
+      },
+      {
+        "email": "mamayagami@gmail.com",
+        "endereco": {
+          "cep": "63870000",
+          "log": "ponte velha",
+          "n": "70"
+        },
+        "nome": "Matheus Yagami",
+        "telefone": "88999885537"
+      },
+      {
+        "email": "getuliopeinchado@gmail.com",
+        "endereco": {
+          "cep": "63870000",
+          "log": "Radipueira",
+          "n": "44"
+        },
+        "nome": "Getúlio Motos",
+        "telefone": "88999885538"
+      }
+    ],
+    "produtos": [
+      null,
+      {
+        "produto": "Cooler FAN Rise 120mm Branco RM-FN-01-BW Rise Mode",
+        "valor": "10"
+      },
+      {
+        "produto": "Memória Kingston Fury Beast, RGB, 8GB, 3200MHz, DDR4, CL16, Preto - KF432C16BBA",
+        "valor": "209"
+      },
+      {
+        "produto": "Placa de Vídeo RTX 2060 Ventus GP OC MSI NVIDIA GeForce, 6GB",
+        "valor": "1500"
+      },
+      {
+        "produto": "SSD 240 GB WD Green, SATA, Leitura: 545MB/s e Gravação: 430MB/s - WDS240G3G0A",
+        "valor": "132"
+      },
+      {
+        "produto": "Placa Mãe Gigabyte B550M Aorus Elite, AMD AM4, Micro ATX, DDR4",
+        "valor": "920"
+      },
+      {
+        "produto": "SSD 480 GB WD Green PC SN350, PCIe, NVMe, Leitura: 2400MB/s e Gravação: 1650MB/s ",
+        "valor": "924"
+      },
+      {
+        "produto": "Fonte XPG Core Reactor, 850W, 80 Plus Gold Modular XPG",
+        "valor": "700"
+      },
+      {
+        "produto": "Pasta Térmica Rise Silver Frost, 5g, Cinza - LMS-TG700 Rise Mode",
+        "valor": "9"
+      },
+      {
+        "produto": "Headset Gamer Redragon Zeus X, Chroma Mk.II, RGB, Surround 7.1, USB, Drivers 53MM, Preto/Vermelho - H510-RGB",
+        "valor": "400"
+      },
+      {
+        "produto": "Mouse Gamer Redragon Cobra, Chroma RGB, 12400DPI, 7 Botões, Preto - M711 V2",
+        "valor": "116"
+      }
+    ]
+  }
+}
