@@ -1,0 +1,1 @@
+# lojadeinfo3
